@@ -1,2 +1,5 @@
+novaGrana
 izmjene na branchu
+izmjena na masteru
+master
 
